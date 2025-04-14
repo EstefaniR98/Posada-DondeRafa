@@ -3,6 +3,11 @@
 @import "./buttons.css";
 @import "./background.css";
 @import "./inputs.css";
+@import "./position.css";
+@import "./colors.css";
+@import "./carousel.css";
+@import "./avaliaçoes.css";
+@import "./utils.css";
 /* Configuraciones de colores */
 
 :root {
